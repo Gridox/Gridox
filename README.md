@@ -7,7 +7,7 @@ Currently working towards the CCNA certification & studying cloud computing. Add
 specifically using Python to create automation scripts. I'm looking to learn more about software development, so if anyone is interested in starting a project,
 especially in regards to automation, let me know!
 
-If you want to discuss technology or have a project that you think I could help with, You can reach me at my email: ad_thompson96@yahoo.com
+If you want to discuss technology or have a project that you think I could help with, You can reach me at my email: adthompson9@gmail.com
 
 <!---
 Gridox/Gridox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
